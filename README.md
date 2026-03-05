@@ -24,6 +24,40 @@ A browser extension for highlighting text, getting AI-powered explanations, tran
 
 ---
 
+## Screenshots
+
+**The basic UI is like this:**:
+
+<img src="screenshots/ui.png" width="400" alt="UI Overview">
+
+---
+
+**This is how you highlight texts and make notes:**
+
+<img src="screenshots/highlight-notes.png" width="400" alt="Highlight and Notes">
+
+---
+
+**Using LMMs:**
+
+<img src="screenshots/ai.png" width="400" alt="AI Explanation">
+
+<img src="screenshots/ai2.png" width="400" alt="AI Settings">
+
+---
+
+**Translate and insert translation:**
+
+<img src="screenshots/translate.png" width="400" alt="Translation">
+
+---
+
+**Search information:**
+
+<img src="screenshots/search.png" width="400" alt="Search">
+
+---
+
 ## 🚀 Installation
 
 ### From the ZIP file
