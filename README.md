@@ -23,6 +23,7 @@ Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/va
 | 🃏 **Anki Export** | Send highlights directly to Anki via AnkiConnect |
 | 📝 **Notion Export** | Save highlights to a Notion database |
 | 🔍 **Idiom Detection** | Auto-detects English idioms and phrases on page load |
+| 🥸 **Idiom Learning** | Study loaded idioms by pressing `Alt+L` / `option+L` |
 | ⌨️ **Keyboard Shortcut** | `Ctrl+Shift+H` / `Cmd+Shift+H` to open the extension |
 
 ---
