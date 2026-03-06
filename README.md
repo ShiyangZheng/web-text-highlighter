@@ -2,6 +2,9 @@
 
 A browser extension for highlighting text, getting AI-powered explanations, translating in place, and exporting to Anki and Notion — built with language learners and researchers in mind.
 
+Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/vard9)) and PIE-English's ([Corpus for Classes of Idioms](https://github.com/tosingithub/idesk)) — the extension currently auto-detects and highlights **1,691 English idioms** across any webpage. Contributions of additional databases are warmly welcomed and will directly expand the extension's coverage.
+
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Manifest](https://img.shields.io/badge/Manifest-v3-green.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-88%2B-yellow.svg)
