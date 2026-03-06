@@ -35,6 +35,11 @@ Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/va
 <img src="screenshots/ui.png" width="400" alt="UI Overview">
 
 ---
+**Let's learn some idioms:**:
+
+<img src="screenshots/learning.png" width="400" alt="Idiom Learning">
+
+---
 
 **This is how you highlight texts and make notes:**
 
