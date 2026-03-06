@@ -47,6 +47,12 @@ Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/va
 
 ---
 
+**You can even see auto-highlights on some danmuku-style sites:**
+
+<img src="screenshots/auto-highlight-danmuku.png" width="400" alt="Auto-highlight Danmuku">
+
+---
+
 **Using LMMs:**
 
 <img src="screenshots/ai.png" width="400" alt="AI Explanation">
