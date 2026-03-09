@@ -8,7 +8,8 @@ Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/va
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Manifest](https://img.shields.io/badge/Manifest-v3-green.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-88%2B-yellow.svg)
-![Edge](https://img.shields.io/badge/Edge-compatible-blue.svg)
+
+[<img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="200"/>](https://microsoftedge.microsoft.com/addons/detail/web-text-highlighter/mdckhdaagmkapgldfjfaomcpngmdpaog)
 
 ---
 
