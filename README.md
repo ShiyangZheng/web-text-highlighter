@@ -60,6 +60,8 @@ Powered by two idiom databases — my own ([v-det-noun idioms](https://osf.io/va
 
 <img src="screenshots/ai2.png" width="400" alt="AI Settings">
 
+<img src="screenshots/ai3.png" width="400" alt="AI Chatbot">
+
 ---
 
 **Translate and insert translation:**
